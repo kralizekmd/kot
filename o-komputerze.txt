@@ -1,1 +1,47 @@
 Linux Kralizek 4.4.0-103-generic #126-Ubuntu SMP Mon Dec 4 16:23:28 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        3956328 kB
+MemFree:         1580152 kB
+MemAvailable:    2230812 kB
+Buffers:           80460 kB
+Cached:           897516 kB
+SwapCached:            0 kB
+Active:          1642436 kB
+Inactive:         531884 kB
+Active(anon):    1197612 kB
+Inactive(anon):   145116 kB
+Active(file):     444824 kB
+Inactive(file):   386768 kB
+Unevictable:          16 kB
+Mlocked:              16 kB
+SwapTotal:       4104188 kB
+SwapFree:        4104188 kB
+Dirty:                88 kB
+Writeback:             0 kB
+AnonPages:       1198408 kB
+Mapped:           283476 kB
+Shmem:            146384 kB
+Slab:              91492 kB
+SReclaimable:      51924 kB
+SUnreclaim:        39568 kB
+KernelStack:       11424 kB
+PageTables:        33176 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6082352 kB
+Committed_AS:    5659320 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    567296 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      142080 kB
+DirectMap2M:     3962880 kB
+DirectMap1G:     1048576 kB
